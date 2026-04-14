@@ -50,6 +50,11 @@ languageName = "English"
 
     title = ""
 
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
+
   [[menu.main]]
 
     weight = 2
