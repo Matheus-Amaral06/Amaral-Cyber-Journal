@@ -1,25 +1,15 @@
-baseURL = "http://example.org/"
-
-
+baseURL = "https://matheus-amaral06.github.io/Amaral-Cyber-Journal/"
 
 # Change the default theme to be use when building the site with Hugo
-
 theme = "LoveIt"
 
-
-
 # website title
-
 title = "My New Hugo Site"
 
-
-
 # language code ["en", "zh-CN", "fr", "pl", ...]
-
 languageCode = "en"
 
 # language name ["English", "简体中文", "Français", "Polski", ...]
-
 languageName = "English"
 
 
@@ -87,6 +77,13 @@ languageName = "English"
 
     title = ""
 
+
+
+[params]
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "light"
+  title = "Amaral Cyber Journal"
+  images = ["/logo.png"]
 
 
 # Markup related configuration in Hugo

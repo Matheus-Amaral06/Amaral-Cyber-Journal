@@ -2,8 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2026-04-14T09:03:01-03:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2026-04-14T09:03:01-03:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/testes/</loc><lastmod>2026-04-14T09:03:01-03:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc></url><url>
-            <loc>http://localhost:1313/tags/</loc></url></urlset>
+            <loc>http://localhost:1313/Amaral-Cyber-Journal/categories/</loc></url><url>
+            <loc>http://localhost:1313/Amaral-Cyber-Journal/</loc></url><url>
+            <loc>http://localhost:1313/Amaral-Cyber-Journal/posts/</loc></url><url>
+            <loc>http://localhost:1313/Amaral-Cyber-Journal/tags/</loc></url></urlset>

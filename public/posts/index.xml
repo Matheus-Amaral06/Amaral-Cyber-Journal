@@ -1,16 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - My New Hugo Site</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>http://localhost:1313/Amaral-Cyber-Journal/posts/</link>
         <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Apr 2026 09:03:01 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Testes</title>
-    <link>http://localhost:1313/posts/testes/</link>
-    <pubDate>Tue, 14 Apr 2026 09:03:01 -0300</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/posts/testes/</guid>
-    <description><![CDATA[<h2 id="introdução">introdução</h2>
-<p><strong>negrito</strong> texto em negrito, <em>sla</em></p>]]></description>
-</item>
-</channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/Amaral-Cyber-Journal/posts/" rel="self" type="application/rss+xml" /></channel>
 </rss>
