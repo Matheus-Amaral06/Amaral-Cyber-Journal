@@ -1,10 +1,10 @@
-baseURL = "https://matheus-amaral06.github.io/Amaral-Cyber-Journal/"
+baseURL = "https://matheus-amaral06.github.io/"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 defaultContentLanguage = "en"
 # website title
 title = "My New Hugo Site"
-
+defaultContentLanguageInSubdir = true
 
 
 [taxonomies]
@@ -51,7 +51,6 @@ title = "My New Hugo Site"
   defaultTheme = "light"
   title = "Amaral Cyber Journal"
   images = ["/logo.png"]
-
 
 
 [markup]
